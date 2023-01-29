@@ -1,4 +1,4 @@
-# TravelPlanner
+# Travel Planner
 Project for Silvacom!
 
 The project uses the following versions: 
