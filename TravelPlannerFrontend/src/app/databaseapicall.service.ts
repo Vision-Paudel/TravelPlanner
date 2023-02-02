@@ -22,12 +22,12 @@ export class DatabaseapicallService {
 
   public getAllCityNames() {
     const headers= new HttpHeaders().set('content-type', 'application/json').set('Access-Control-Allow-Origin', '*');
-    return this.http.get('http://localhost:8080/city/name/all', {headers: headers});
+    return this.http.get('http://3.90.65.219:8080/city/name/all',{ 'headers': headers });
   }
 
   public getACity(name: string) {
     const headers= new HttpHeaders().set('content-type', 'application/json').set('Access-Control-Allow-Origin', '*');
-    return this.http.get('http://localhost:8080/city/' + name, {headers: headers    });
+    return this.http.get('http://3.90.65.219:8080/city/' + name, {headers: headers    });
   }
   
 }
