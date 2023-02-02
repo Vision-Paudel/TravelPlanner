@@ -5,7 +5,7 @@ The project uses the following versions:
 
 1. PostgreSQL Engine version 13.7
 2. Java v8
-3. Apache Maven 3.5.0
+3. Apache Maven v3.5.0
 4. SpringBoot v2.6.2
 5. Angular CLI v15.1.3
 6. Node v16.19.0
