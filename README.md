@@ -16,5 +16,5 @@ java -jar silvacomtripplanner-0.0.1-SNAPSHOT.jar &
 
 Run the frontend from inside the TravelPlannerFrontend folder:
 ```
-ng serve --host 0.0.0.0 --disable-host-check
+ng serve --host 0.0.0.0 --disable-host-check &
 ```
