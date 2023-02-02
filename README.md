@@ -13,12 +13,12 @@ The project uses the following versions:
 
 Run the springboot backend jar file from inside the /target folder in the backend:
 ```
-java -jar silvacomtripplanner-0.0.1-SNAPSHOT.jar &
+nohup java -jar silvacomtripplanner-0.0.1-SNAPSHOT.jar &
 ```
 
 Run the frontend from inside the TravelPlannerFrontend folder:
 ```
-ng serve --host 0.0.0.0 --disable-host-check &
+nohup ng serve --host 0.0.0.0 --disable-host-check &
 ```
 
 The project is accessible from [www.visionpaudel.com/tripplanner](https://www.visionpaudel.ca/tripplanner)
