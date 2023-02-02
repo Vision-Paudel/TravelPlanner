@@ -1,0 +1,9 @@
+app-root{
+    margin:10;
+    padding:10;    
+}
+
+.mainDiv {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgb(255, 255, 255,0) 0%, rgba(103,254,255,1) 5%, rgba(103,254,255,1) 50%, rgba(255,255,255,1) 90%, rgba(255,255,255,0.45) 100%);
+}

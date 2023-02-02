@@ -1,0 +1,8 @@
+input[type=date]{
+    width: 20%;
+    height: 35px;
+    margin: 10px;
+}
+input[type="date"]::-webkit-clear-button {
+    display: none;
+}
