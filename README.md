@@ -21,4 +21,3 @@ Run the frontend from inside the TravelPlannerFrontend folder:
 nohup ng serve --host 0.0.0.0 --disable-host-check &
 ```
 
-The project is accessible from [www.visionpaudel.com/tripplanner](https://www.visionpaudel.ca/tripplanner)
